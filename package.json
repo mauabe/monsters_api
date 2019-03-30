@@ -1,0 +1,27 @@
+{
+  "name": "monsters_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauabe/monsters_api.git"
+  },
+  "author": "Mauricio Feldman-Abe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mauabe/monsters_api/issues"
+  },
+  "homepage": "https://github.com/mauabe/monsters_api#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "pg": "^7.9.0"
+  }
+}
