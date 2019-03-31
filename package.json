@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "nodemon index",
+    "test": "test",
+    "configure":"./bin/configuredb.sh"
   },
   "repository": {
     "type": "git",
