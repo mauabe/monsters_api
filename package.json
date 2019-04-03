@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index",
+    "start": "node ./bin/www",
+    "dev": "nodemon ./bin/www",
     "test": "test",
-    "configure":"./bin/configuredb.sh"
+    "configure": "./bin/configuredb.sh"
   },
   "repository": {
     "type": "git",
