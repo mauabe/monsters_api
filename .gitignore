@@ -1,4 +1,6 @@
 node_modules/
 dist/
-secrets/
 .DS_Store
+
+//secrets > db_configuration
+//normally don't upload keys and passworsds.
