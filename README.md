@@ -1,7 +1,7 @@
 # Monsters API Backend Project
 
 
-<img src="https://github.com/mauabe/monsters-api.png" />
+<img src="https://github.com/mauabe/monsters_api/monsters-api.png" />
 
 An API build in Node/Express and PostgreSQL to master backend web development concepts.
 
