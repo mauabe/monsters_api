@@ -1,5 +1,8 @@
 # Monsters API Backend Project
 
+
+<img src="https://github.com/mauabe/monsters-api.png" />
+
 An API build in Node/Express and PostgreSQL to master backend web development concepts.
 
 This server keeps tracks of ficticious monsters, their habitats and a who lives where. All these relations are tracked by a PostgreSQL database.
